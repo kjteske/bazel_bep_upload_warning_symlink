@@ -1,0 +1,3 @@
+build --bes_results_url=<add URL here>
+build --bes_backend=grpcs://<add endpoint here>
+build --remote_cache=grpcs://<add endpoint here>
